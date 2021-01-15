@@ -1,4 +1,4 @@
-# Detektion---Segmentierung-von-Schadstellen-in-Bildaufnahmen
+# Detektion-von-Schadstellen-in-Bildaufnahmen
 DCAITI Project--WS20/21
 
 1.You can train your own version or download the weight files from https://drive.google.com/drive/folders/1gFtHe5ZCGfZnrlUW-Pua1UCJY1JM6ZFR?usp=sharing
